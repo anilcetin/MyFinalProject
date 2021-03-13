@@ -12,5 +12,7 @@ namespace Business.Constants
         public static string MaintenanceTime ="Sistem bakımda";
         public static string ProductsListed ="Ürünler listelendi";
         public static string UnitPriceInvalid = "Ürün fiyatı hatalı";
+        public static string ProductCountOfCategoryError = "Bir kategoride maksimum 10 farklı ürün olabilir";
+        public static string CategoryLimitExceded="Kategori limiti aşıldığı için yeni ürün eklenemez";
     }
 }
