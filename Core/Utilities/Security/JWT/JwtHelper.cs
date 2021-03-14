@@ -12,7 +12,7 @@ using Core.Utilities.Security.JWT;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Core.Utilities.Security.Jwt
+namespace Core.Utilities.Security.JWT
 {
     public class JwtHelper : ITokenHelper
     {
